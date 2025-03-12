@@ -1,5 +1,5 @@
 {
-  "name": "@samvel/calculator",
+  "name": "@sam_raffi/calculator",
   "version": "1.2.0",
   "publishConfig": {
     "access": "public"
